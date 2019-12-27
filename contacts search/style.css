@@ -1,0 +1,12 @@
+
+
+.d-flex table{
+  margin:1em 10em;
+}
+
+.errorInput {
+  border: 1px solid red;
+}
+.succs {
+  border: 1px solid green;
+}
